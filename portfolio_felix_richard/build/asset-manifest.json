@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44650dc8.css",
+    "main.js": "/static/js/main.6c815f00.js",
+    "static/media/ensembleFond.jpg": "/static/media/ensembleFond.1d2c234e096a53f85dc1.jpg",
+    "static/media/ensembleFront.jpg": "/static/media/ensembleFront.3a1ba79a2442c1c21409.jpg",
+    "static/media/ensemble.jpg": "/static/media/ensemble.7018d1d11d135ee75054.jpg",
+    "static/media/immeubles.jpg": "/static/media/immeubles.788af81c968e24289598.jpg",
+    "static/media/FélixRecad.jpg": "/static/media/FélixRecad.280c73574206430b51b9.jpg",
+    "index.html": "/index.html",
+    "main.44650dc8.css.map": "/static/css/main.44650dc8.css.map",
+    "main.6c815f00.js.map": "/static/js/main.6c815f00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44650dc8.css",
+    "static/js/main.6c815f00.js"
+  ]
+}

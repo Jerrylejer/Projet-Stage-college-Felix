@@ -1,5 +1,5 @@
 import React from 'react';
-import immeubles from '../../assets/immeubles.jpg';
+
 import Felix from '../../assets/FélixRecad.jpg';
 import Footer from '../Footer/Footer';
 
@@ -25,13 +25,6 @@ const Presentation = () => {
                         Artiste, Biologiste, Botaniste, Dramaturge, écrivain,
                         Poète, Romancier, Scientifique (1749 - 1832)
                     </p>
-                </div>
-                <div className='mx-auto'>
-                    <img
-                        src={immeubles}
-                        alt='immeubles'
-                        className='md:hidden h-[350px]'
-                    />
                 </div>
             </div>
             <Footer className='hidden w-full md:block ' />
